@@ -1,0 +1,19 @@
+MIT License
+
+GTA V MODS & SCRIPTS LICENSE
+
+Copyright (c) 2026 Amodh Kushan / Gaze(@gazeony). All rights reserved.
+
+1. PERSONAL USE
+Permission is granted to download, install, and use these modification files ("Mods") for personal single-player and private server use in Grand Theft Auto V.
+
+2. CONTENT CREATION & MEDIA
+You are fully permitted to feature, demonstrate, or stream gameplay using these Mods in public media (including YouTube, Twitch, TikTok, etc.). Attribution or links to the author's YouTube channel or repository are greatly appreciated.
+
+3. REDISTRIBUTION RESTRICTIONS
+You may NOT re-upload, mirror, repackage, or sell raw files (including handling.meta, XML configurations, or script binaries/source code) from this repository to any third-party website (such as gta5-mods.com, NexusMods, or personal servers) without explicit written permission from the copyright owner.
+
+4. COMMERCIAL USE & CUSTOM WORK
+Commercial resale of these free modification files is strictly prohibited. For custom commercial work, tailored handling files, or server exclusive scripts, contact the author directly for paid commission inquiries.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR IS NOT LIABLE FOR ANY GAME INSTABILITY, BANNING, OR LOSS OF DATA RESULTING FROM THE USE OF THESE FILES.
