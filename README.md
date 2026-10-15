@@ -2,7 +2,7 @@
 
 Welcome to my central repository for **Grand Theft Auto V** mods and custom scripts! Here you will find a structured collection of free vehicle handling files, custom lua/c# scripts, and game utilities.
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Watch_Mod_Previews-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/gazeony)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Watch_Mod_Previews-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@gazeony)
 [![GTA5-Mods Profile](https://img.shields.io/badge/GTA5--Mods-Visit_Profile-blue?style=for-the-badge)](https://www.gta5-mods.com/users/shehazz)
 
 ---
