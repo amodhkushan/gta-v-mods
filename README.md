@@ -45,7 +45,7 @@ Need a unique handling configuration or a custom script built specifically for y
 
 If you have a custom request, contact me with your project details and requirements:
 
-* **Discord:** `[gazeondez](https://discord.com/users/1290015573950074966)`
+* **Discord:** [gazeondez](https://discord.com/users/1290015573950074966)
 * **YouTube:** [Gaze](https://www.youtube.com/@gazeony)
 * **GTA5-Mods:** [Shehazz](https://www.gta5-mods.com/users/shehazz)
 
